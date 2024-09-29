@@ -2,10 +2,10 @@
 
 <h1>About Me</h1>
 <h3>I am <strong><em>Archit</em></strong>.
-I am Undergraduating Sophomore at IIIT Pune majoring in Computers.
-
-##🔭 I’m currently working on ...
-##🌱 I’m currently learning ...
+I am Undergraduating Sophomore at IIIT Pune majoring in Computers.<br>
+<br>
+##🔭 I’m currently working on ...<br>
+##🌱 I’m currently learning ...<br>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
