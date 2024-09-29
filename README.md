@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&size=30&pause=1000&color=00F7E8&vCenter=true&width=900&lines=Hey+there!+You've+landed+on+my+page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&size=30&duration=5000&pause=1000&color=00F7E8&vCenter=true&width=900&lines=Hey+there!+You've+landed+on+my+page)](https://git.io/typing-svg)
 
 <!--
 **Archit-P-Singh/Archit-P-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
