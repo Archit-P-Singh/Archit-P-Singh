@@ -4,8 +4,8 @@
 <h3>I am <strong><em>Archit</em></strong>.
 I am Undergraduating Sophomore at IIIT Pune majoring in Computers.<br>
 <br>
-##🔭 I’m currently working on ...<br>
-##🌱 I’m currently learning ...<br>
+&emsp;🔭 I’m currently working on ...<br>
+&emsp;🌱 I’m currently learning ...<br>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
