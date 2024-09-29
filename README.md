@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&size=30&duration=5000&pause=1000&color=00F7E8&vCenter=true&width=700&lines=Hey+there!+Welcome+to+my+page.)](https://git.io/typing-svg)
 
-<!--
+
 **Archit-P-Singh/Archit-P-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
