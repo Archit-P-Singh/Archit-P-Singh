@@ -2,7 +2,7 @@
 
 <h1>About Me</h1>
 <h3>My name is <em>Archit Pratap Singh</em>.<br><br>
-I am Undergraduate Sophomore at IIIT Pune majoring in Computers.<br>
+I am Undergrad at IIIT Pune majoring in Computers.<br>
 <br>
 &emsp;🔭 I’m currently working on WebApp Development.<br>
 &emsp;🌱 I’m currently learning Data Science, WebDev, AppDev.<br>
