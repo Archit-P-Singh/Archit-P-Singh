@@ -34,34 +34,18 @@ I enjoy building practical systems across the stack, from backend services and d
 
 ## Interests
 
-- Software Engineering
-- Backend Systems
-- AI/ML
-- Generative AI
-- RAG
-- Distributed Systems
+`Software Engineering` · `Backend Systems` · `AI/ML` · `Generative AI` · `RAG` · `Distributed Systems`
 
 ---
 
 ## Tech
 
-**Languages:**  
-C/C++ · Java · Python · Dart · JavaScript · SQL
-
-**Backend & Frameworks:**  
-Spring Boot · Flask · REST APIs · Flutter · JavaFX
-
-**AI/ML & GenAI:**  
-LangGraph · LangChain · RAG · ChromaDB · Pandas · NumPy
-
-**Databases & Storage:**  
-MySQL · SQLite · Apache Hive
-
-**Cloud & Distributed Systems:**  
-AWS · Docker · Redis · RabbitMQ
-
-**Analytics & Visualization:**  
-Tableau · Matplotlib · MS Excel · Google Sheets
+- **Languages:**  C/C++ · Java · Python · Dart · JavaScript · SQL
+- **Backend & Frameworks:**  Spring Boot · Flask · REST APIs · Flutter · JavaFX
+- **AI/ML & GenAI:**  LangGraph · LangChain · RAG · ChromaDB · Pandas · NumPy
+- **Databases & Storage:**  MySQL · SQLite · Apache Hive
+- **Cloud & Distributed Systems:**  AWS · Docker · Redis · RabbitMQ
+- **Analytics & Visualization:**  Tableau · Matplotlib · MS Excel · Google Sheets
 
 ---
 
